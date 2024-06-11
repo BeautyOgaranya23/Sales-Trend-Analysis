@@ -92,7 +92,7 @@ Detailed analysis of the pizza sales data has uncovered critical insights that c
 
 ## 📄 Detailed Report
 
-For a detailed view of the PowerBI visuals, you can download the full report in PDF format [Download Picture](trend_insights.jpeg)
+For a detailed view of the PowerBI visuals, you can download the full report [Here](trend_insights.jpeg)
 
 # Recommendation and Conclusion
 
